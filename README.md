@@ -1,4 +1,8 @@
 ### Hi there 👋
+\
+[**](https://www.instagram.com/tunc.ayy "Instagram Hesabım")
+[**](https://twitter.com/yinehaklituncay "Twitter Hesabım")
+
 
 <!--
 **tuncaykaptan/tuncaykaptan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
