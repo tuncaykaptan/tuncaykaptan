@@ -1,7 +1,7 @@
 # Hello 👋 | Merhaba 👋
 
 \
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="drawing" width="50"/>](https://www.instagram.com/tunc.ayy "Instagram Hesabım | My Instagram Account") [<img src="https://upload.wikimedia.org/wikipedia/tr/f/f2/Twitter-bird-light-bgs.png" alt="drawing" width="50"/>](https://twitter.com/tuncaykptn "Twitter Hesabım | My Twitter Account") [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" alt="drawing" width="50"/>](https://steamcommunity.com/id/tuncayka/ "Steam Hesabım | My Steam Account")
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="drawing" width="50"/>](https://www.instagram.com/tunc.ayy "Instagram Hesabım | My Instagram Account") [<img src="https://tr.wikipedia.org/wiki/Twitter#/media/Dosya:Twitter-logo.svg" alt="drawing" width="50"/>](https://twitter.com/tuncaykptn "Twitter Hesabım | My Twitter Account") [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" alt="drawing" width="50"/>](https://steamcommunity.com/id/tuncayka/ "Steam Hesabım | My Steam Account")
 
 
 
