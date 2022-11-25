@@ -1,12 +1,12 @@
-# Hello | Merhaba 👋
+# Hello
 
-Ben Tuncay Kaptan.
+I'm Tuncay from Turkey!
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="drawing" width="50"/>](https://www.instagram.com/tunc.ayy "Instagram Hesabım | My Instagram Account") [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/800px-Twitter-logo.svg.png" alt="drawing" width="50"/>](https://twitter.com/tuncaykptn "Twitter Hesabım | My Twitter Account") [<img src="https://user-images.githubusercontent.com/75607066/158062796-faa45a0c-731e-4dd5-a83e-8c878567eed0.png" alt="drawing" width="50"/>](mailto:tuncayk@proton.me "Mail")
+Full-time student 🧑‍🎓
+Music-lover 🎵
 
 
-
-
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="drawing" width="40"/>](https://www.instagram.com/tunc.ayy "Instagram Hesabım | My Instagram Account") [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/800px-Twitter-logo.svg.png" alt="drawing" width="40"/>](https://twitter.com/tuncaykptn "Twitter Hesabım | My Twitter Account") [<img src="https://user-images.githubusercontent.com/75607066/158062796-faa45a0c-731e-4dd5-a83e-8c878567eed0.png" alt="drawing" width="40"/>](mailto:tuncayk@proton.me "Mail")
 
 
 <!--
