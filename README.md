@@ -1,13 +1,9 @@
-# Hello
+# Hey
+<p align="center">
+<img src="https://user-images.githubusercontent.com/75607066/205938297-5ea3c538-81af-41f3-baca-5943a2526496.png" width="500">
+</p>
 
-I'm Tuncay from Turkey!
-
-Full-time student 🧑‍🎓
-
-Music-lover 🎵
-
-
-[insta](https://www.instagram.com/tunc.ayy "Instagram Hesabım | My Instagram Account") // [twtr](https://twitter.com/tuncaykptn "Twitter Hesabım | My Twitter Account") // [mail](mailto:tuncayk@protonmail.com "Mail")
+[insta](https://www.instagram.com/tunc.ayy "Instagram Hesabım | My Instagram Account")  [twtr](https://twitter.com/tuncaykptn "Twitter Hesabım | My Twitter Account")  [mail](mailto:tuncayk@protonmail.com "Mail")
 
 
 <!--
