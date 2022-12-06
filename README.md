@@ -1,10 +1,11 @@
 # Hey
 <p align="center">
 <img src="https://user-images.githubusercontent.com/75607066/205938297-5ea3c538-81af-41f3-baca-5943a2526496.png" width="500">
-</p>
+
 
 [insta](https://www.instagram.com/tunc.ayy "Instagram Hesabım | My Instagram Account")  [twtr](https://twitter.com/tuncaykptn "Twitter Hesabım | My Twitter Account")  [mail](mailto:tuncayk@protonmail.com "Mail")
 
+</p>
 
 <!--
 **tuncaykaptan/tuncaykaptan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
