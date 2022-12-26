@@ -1,17 +1,33 @@
-# Hey
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/75607066/205938297-5ea3c538-81af-41f3-baca-5943a2526496.png" width="500">
-</p>
+# Hi.
+Hello, I'm Tuncay Kaptan from Turkey.
+[![](https://visitcount.itsvg.in/api?id=tuncaykaptan&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<p align="center">
-  tuncayk@protonmail.com
-</p>
+## Social
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tuncay-kaptan-828958201)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tunc.ayy)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tuncay#4660)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tuncaykptn)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tuncaykaptandev) 
 
-<p align="center">
-  <a href="https://www.instagram.com/tunc.ayy" target="_blank">insta</a>
-  <a href="https://twitter.com/tuncaykptn" target="_blank" >twtr</a>
-</p>
+## Tech
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## Stat
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuncaykaptan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **tuncaykaptan/tuncaykaptan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
