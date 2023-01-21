@@ -23,7 +23,7 @@ Hello, I'm Tuncay Kaptan from Turkey.
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](#)
 
 ## Stat
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tuncaykaptan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](#)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuncaykaptan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
