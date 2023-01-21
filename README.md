@@ -11,7 +11,7 @@ Hello, I'm Tuncay Kaptan from Turkey.
 
 ## Tech
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)![resim](https://user-images.githubusercontent.com/75607066/213886786-3e94f867-fcaf-40ea-a7fd-25bfd046d39a.png)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
 
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](#)
@@ -23,7 +23,7 @@ Hello, I'm Tuncay Kaptan from Turkey.
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](#)
 
 ## Stat
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuncaykaptan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuncaykaptan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](#)
 
 ---
 
