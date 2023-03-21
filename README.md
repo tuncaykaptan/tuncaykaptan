@@ -22,9 +22,6 @@ Hello, I'm Tuncay Kaptan from Turkey.
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](#)
 
-## Stat
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuncaykaptan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](#)
-
 ---
 
 
