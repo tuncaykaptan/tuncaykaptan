@@ -1,5 +1,5 @@
 # Hi.
-Hello, I'm Tuncay Kaptan from Turkey.
+Hello, I'm Tuncay Kaptan from Turkey. (alttaki sayaç bozulmuş bi ara düzeltirim)
 
 [![](https://visitcount.itsvg.in/api?id=tuncaykaptan&icon=2&color=12)](#)
 
