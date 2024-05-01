@@ -1,7 +1,7 @@
 # Hi.
 Hello, I'm Tuncay Kaptan from Turkey. (alttaki sayaç bozulmuş bi ara düzeltirim)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftuncaykaptan&count_bg=%23000101&title_bg=%230D1117&icon=&icon_color=%230D1117&title=Profile+Views&edge_flat=false)](https://github.com/tuncaykaptan)
-[![](https://visitcount.itsvg.in/api?id=tuncaykaptan&icon=2&color=12)](#)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftuncaykaptan&count_bg=%23D3336B&title_bg=%23373435&icon=&icon_color=%230066FF&title=Profile+Views+-+Today+%2F+Total&edge_flat=false)](https://github.com/tuncaykaptan)
 
 ## Social
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tunc.ayy)
