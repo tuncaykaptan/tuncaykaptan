@@ -1,6 +1,6 @@
 # Hi.
 Hello, I'm Tuncay Kaptan from Turkey. (alttaki sayaç bozulmuş bi ara düzeltirim)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftuncaykaptan&count_bg=%23000101&title_bg=%230D1117&icon=&icon_color=%230D1117&title=Profile+Views&edge_flat=false)](https://github.com/tuncaykaptan)
 [![](https://visitcount.itsvg.in/api?id=tuncaykaptan&icon=2&color=12)](#)
 
 ## Social
@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://hit.yhype.me/github/profile?user_id=75607066)
+
