@@ -1,5 +1,5 @@
-# Hi.
-Hello, I'm Tuncay Kaptan from Türkiye.
+# Hi there.
+I'm Tuncay Kaptan. I live in Turkey. My passion is to create things that touch people's lives.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftuncaykaptan&count_bg=%23D3336B&title_bg=%23373435&icon=&icon_color=%230066FF&title=Profile+Views+-+Today+%2F+Total&edge_flat=false)](https://github.com/tuncaykaptan)
 
